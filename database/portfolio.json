@@ -112,7 +112,20 @@
         },
         "skills": "SQL, Power BI, Tableau, Pandas, NumPy,TensorFlow",
         "companyName": "McKinsey & Company (Private Consulting Platform)",
-        "images": []
+        "images": [
+          {
+            "fileName": "ra3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra3.png"
+          },
+          {
+            "fileName": "ra4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra4.png"
+          },
+          {
+            "fileName": "ra5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra5.png"
+          }
+        ]
       },
       {
         "timeline": "2019 – 2021",
