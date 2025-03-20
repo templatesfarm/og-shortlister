@@ -126,7 +126,16 @@
         },
         "skills": "regression analysis, hypothesis testing, competitive analysis, market trends, risk assessment, data collection, data processing",
         "companyName": "Deloitte",
-        "images": []
+        "images": [
+          {
+            "fileName": "ra1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra1.png"
+          },
+          {
+            "fileName": "ra2.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/og-shortlister/master/images/ra2.jpeg"
+          }
+        ]
       }
     ]
   },
