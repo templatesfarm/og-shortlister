@@ -1,6 +1,6 @@
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 
-import { ContactViewWithAuth } from "portfolioui/the-hiring-hero";
+import { ContactViewWithAuth } from "portfolioui/og-shortlister";
 
 export default function Footer() {
   const { portfolio, isLoading } = usePortfolioStore();

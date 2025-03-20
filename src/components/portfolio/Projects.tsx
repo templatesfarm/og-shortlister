@@ -1,7 +1,7 @@
 import React from "react";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import { useAppStore } from "@/store/appStore";
-import { ProjectsEditableWithAuth } from "portfolioui/the-hiring-hero";
+import { ProjectsEditableWithAuth } from "portfolioui/og-shortlister";
 
 export const Projects = () => {
   const {
@@ -18,8 +18,8 @@ export const Projects = () => {
       qualificationInfo={qualificationInfo}
       isLoading={isLoading}
       className="bg-background"
-      circleClassName="bg-blue-300 dark:bg-blue-300"
-      lineClassName="from-blue-700 via-blue-600"
+      circleClassName="bg-violet-300 dark:bg-violet-300"
+      lineClassName="from-violet-700 via-violet-600"
     />
   );
 };

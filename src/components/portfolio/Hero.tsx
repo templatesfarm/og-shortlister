@@ -3,7 +3,7 @@ import React from "react";
 
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 
-import { HeroEditableWithAuth } from "portfolioui/the-hiring-hero";
+import { HeroEditableWithAuth } from "portfolioui/og-shortlister";
 import { useAppStore } from "@/store/appStore";
 
 export const Hero = () => {
